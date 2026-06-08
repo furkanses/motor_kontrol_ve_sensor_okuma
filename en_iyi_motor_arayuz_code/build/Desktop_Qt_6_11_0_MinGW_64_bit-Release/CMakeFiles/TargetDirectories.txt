@@ -1,0 +1,5 @@
+C:/Users/Furkan/Desktop/en_iyi_motor_arayuz_code/build/Desktop_Qt_6_11_0_MinGW_64_bit-Release/CMakeFiles/MotorInterface.dir
+C:/Users/Furkan/Desktop/en_iyi_motor_arayuz_code/build/Desktop_Qt_6_11_0_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/Furkan/Desktop/en_iyi_motor_arayuz_code/build/Desktop_Qt_6_11_0_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/Furkan/Desktop/en_iyi_motor_arayuz_code/build/Desktop_Qt_6_11_0_MinGW_64_bit-Release/CMakeFiles/MotorInterface_autogen_timestamp_deps.dir
+C:/Users/Furkan/Desktop/en_iyi_motor_arayuz_code/build/Desktop_Qt_6_11_0_MinGW_64_bit-Release/CMakeFiles/MotorInterface_autogen.dir
